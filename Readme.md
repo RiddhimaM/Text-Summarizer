@@ -30,6 +30,9 @@ for word in filtered:
 
 ## Results 
 
+### GUI
+![GUI Image](txtsumm.png)
+
 ### Input
 
 >The ocean is the most important subsystem of the Earth’s climate system and functions as its heart, regulating the energy distribution of the planet. It has absorbed more than 90% of the energy accumulated since 1971 and about 30% of the emitted anthropogenic carbon dioxide. As a result, water temperature rises and oceans acidify and deoxygenate, which lead to changes in oceanic circulation and biogeochemistry, to rising sea levels, to more extreme weather events, to shifts in the distribution of species and migratory routes, and to loss of species and habitat diversity. Awareness of the importance of oceans for the sustainability of the global human population is increasing, including the conservation of biodiversity and its legacy to future generations. For instance, oceanic organisms are more vulnerable to warming than terrestrial ones, as the former are generally at temperatures near their upper thermal limits and lack of thermal refuges. Half of the atmospheric carbon fixed annually in natural systems is cycled into the ocean mainly by the biological carbon pump in the open ocean, but some of the main areas capturing and storing this carbon (as mangroves, seagrasses, salt marshes, and coastal upwelling ecosystems) cover less than 3% of the world’s ocean surface. Particularly, eastern boundary upwelling systems are highly productive ecosystems, with up to 40% of the reported global fish catch.
